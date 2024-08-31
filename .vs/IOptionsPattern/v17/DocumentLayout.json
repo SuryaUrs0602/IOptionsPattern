@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D2C48-0F9E-45BE-8079-9FA1B16972B3}|IOptionsPattern\\IOptionsPattern.csproj|c:\\users\\surya.c.urs\\source\\repos\\ioptionspattern\\ioptionspattern\\transientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D2C48-0F9E-45BE-8079-9FA1B16972B3}|IOptionsPattern\\IOptionsPattern.csproj|solutionrelative:ioptionspattern\\transientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D2C48-0F9E-45BE-8079-9FA1B16972B3}|IOptionsPattern\\IOptionsPattern.csproj|c:\\users\\surya.c.urs\\source\\repos\\ioptionspattern\\ioptionspattern\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D2C48-0F9E-45BE-8079-9FA1B16972B3}|IOptionsPattern\\IOptionsPattern.csproj|solutionrelative:ioptionspattern\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D2C48-0F9E-45BE-8079-9FA1B16972B3}|IOptionsPattern\\IOptionsPattern.csproj|c:\\users\\surya.c.urs\\source\\repos\\ioptionspattern\\ioptionspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D2C48-0F9E-45BE-8079-9FA1B16972B3}|IOptionsPattern\\IOptionsPattern.csproj|solutionrelative:ioptionspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D2C48-0F9E-45BE-8079-9FA1B16972B3}|IOptionsPattern\\IOptionsPattern.csproj|c:\\users\\surya.c.urs\\source\\repos\\ioptionspattern\\ioptionspattern\\optionconfigurationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D2C48-0F9E-45BE-8079-9FA1B16972B3}|IOptionsPattern\\IOptionsPattern.csproj|solutionrelative:ioptionspattern\\optionconfigurationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\IOptionsPattern\\Program.cs",
+              "RelativeDocumentMoniker": "IOptionsPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\IOptionsPattern\\Program.cs",
+              "RelativeToolTip": "IOptionsPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:44:39.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\IOptionsPattern\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "IOptionsPattern\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\IOptionsPattern\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "IOptionsPattern\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:21:22.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransientServices.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\IOptionsPattern\\TransientServices.cs",
+              "RelativeDocumentMoniker": "IOptionsPattern\\TransientServices.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\IOptionsPattern\\TransientServices.cs",
+              "RelativeToolTip": "IOptionsPattern\\TransientServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:21:14.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OptionConfigurationBase.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\IOptionsPattern\\OptionConfigurationBase.cs",
+              "RelativeDocumentMoniker": "IOptionsPattern\\OptionConfigurationBase.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\IOptionsPattern\\IOptionsPattern\\OptionConfigurationBase.cs",
+              "RelativeToolTip": "IOptionsPattern\\OptionConfigurationBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:26:21.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
